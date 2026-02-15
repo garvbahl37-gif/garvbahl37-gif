@@ -1,91 +1,90 @@
-# Garv Bahl
-
-B.Tech Computer Science Engineering (Big Data Analytics)  
-Netaji Subhas University of Technology (NSUT)
-
----
-
-## About Me
-
-Computer Science undergraduate specializing in Big Data Analytics with strong focus on:
-
-- Machine Learning  
-- Deep Learning  
-- Generative AI & LLMs  
-- MERN Stack Development  
-
-I build scalable systems and AI-powered applications designed for real-world impact.
-
----
-
-## Technical Stack
-
-### Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=Garv+Bahl;B.Tech+CSE+-+Big+Data+Analytics;Machine+Learning+%7C+Deep+Learning+%7C+LLMs;MERN+Stack+Specialist;Building+Scalable+AI+Systems" />
 </p>
 
-### Frontend Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" />
-</p>
-
-### Backend Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-</p>
-
-### AI / ML & GenAI
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40" />
+<p align="center">
+  Computer Science Undergraduate at <b>Netaji Subhas University of Technology (NSUT)</b><br>
+  Specializing in Big Data Analytics | AI & Full Stack Development
 </p>
 
 ---
 
-## Core Competencies
+<h2 align="center">About Me</h2>
 
-- Supervised & Unsupervised Learning  
-- Deep Learning (ANN, CNN, RNN)  
-- NLP & Transformer Models  
-- LLM Fine-Tuning & Applications  
-- REST API Development  
-- Authentication & Secure Backend Systems  
+<p align="center">
+Focused on building scalable systems and AI-powered applications designed for real-world impact.<br><br>
+Machine Learning • Deep Learning • Generative AI • LLM Applications • MERN Stack
+</p>
 
 ---
 
-## Current Focus
+<h2 align="center">Technical Stack</h2>
 
-- LLM-powered applications  
-- Generative AI product development  
-- Scalable MERN architecture  
-- AI model deployment & optimization  
+<p align="center">
+
+<!-- Programming -->
+<img src="https://skillicons.dev/icons?i=python,js,cpp" /><br><br>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /><br><br>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,socketio" /><br><br>
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br><br>
+
+<!-- AI / ML -->
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br><br>
+
+<!-- DevOps -->
+<img src="https://skillicons.dev/icons?i=docker,git,linux" />
+
+</p>
 
 ---
 
-## GitHub Stats
+<h2 align="center">Core Competencies</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvbahl37-gif&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garvbahl37-gif&layout=compact)
+<p align="center">
+Supervised & Unsupervised Learning • Deep Neural Networks (ANN, CNN, RNN)<br>
+NLP & Transformer Models • LLM Fine-Tuning • Hugging Face<br>
+REST API Development • Secure Authentication Systems • Scalable Architecture
+</p>
 
 ---
 
-## Contact
+<h2 align="center">GitHub Analytics</h2>
 
-LinkedIn:www.linkedin.com/in/garvbahl11  
-Email:garvbahl37@gmail.com  
-Portfolio:https://garvportfolio-zeta.vercel.app/ 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=garvbahl37-gif&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvbahl37-gif&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvbahl37-gif&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">Current Focus</h2>
+
+<p align="center">
+LLM-powered applications • Generative AI product development • Real-time systems using Socket.io<br>
+Containerized deployments using Docker • AI model optimization & production deployment
+</p>
+
+---
+
+<h2 align="center">Contact</h2>
+
+<p align="center">
+LinkedIn: <a href="https://www.linkedin.com/in/garvbahl11">linkedin.com/in/garvbahl11</a><br>
+Email: garvbahl37@gmail.com<br>
+Portfolio: <a href="https://garvportfolio-zeta.vercel.app/">garvportfolio-zeta.vercel.app</a>
+</p>
