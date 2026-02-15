@@ -13,34 +13,16 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-Focused on building scalable systems and AI-powered applications designed for real-world impact.<br><br>
+Focused on building scalable systems and AI-powered applications designed for real-world impact.<br>
 Machine Learning • Deep Learning • Generative AI • LLM Applications • MERN Stack
 </p>
 
 ---
 
-<h2 align="center">Technical Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
-
-<!-- Programming -->
-<img src="https://skillicons.dev/icons?i=python,js,cpp" /><br><br>
-
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /><br><br>
-
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,socketio" /><br><br>
-
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br><br>
-
-<!-- AI / ML -->
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br><br>
-
-<!-- DevOps -->
-<img src="https://skillicons.dev/icons?i=docker,git,linux" />
-
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,react,nodejs,express,mongodb,mysql,tailwind,tensorflow,pytorch,socketio,docker,git,linux" />
 </p>
 
 ---
@@ -48,9 +30,7 @@ Machine Learning • Deep Learning • Generative AI • LLM Applications • ME
 <h2 align="center">Core Competencies</h2>
 
 <p align="center">
-Supervised & Unsupervised Learning • Deep Neural Networks (ANN, CNN, RNN)<br>
-NLP & Transformer Models • LLM Fine-Tuning • Hugging Face<br>
-REST API Development • Secure Authentication Systems • Scalable Architecture
+Supervised & Unsupervised Learning • Deep Neural Networks • NLP & Transformers • LLM Fine-Tuning • REST APIs • Secure Backend Systems
 </p>
 
 ---
@@ -75,8 +55,7 @@ REST API Development • Secure Authentication Systems • Scalable Architecture
 <h2 align="center">Current Focus</h2>
 
 <p align="center">
-LLM-powered applications • Generative AI product development • Real-time systems using Socket.io<br>
-Containerized deployments using Docker • AI model optimization & production deployment
+LLM-powered applications • Real-time systems • Containerized deployments • AI model productionization
 </p>
 
 ---
