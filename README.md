@@ -38,8 +38,16 @@ Supervised & Unsupervised Learning • Deep Neural Networks • NLP & Transforme
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=garvbahl37-gif&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvbahl37-gif&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=garvbahl37-gif&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvbahl37-gif&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
+</p>
+
+---
+
+<h2 align="center">Streak Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=garvbahl37-gif&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -47,7 +55,7 @@ Supervised & Unsupervised Learning • Deep Neural Networks • NLP & Transforme
 <h2 align="center">Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvbahl37-gif&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvbahl37-gif&theme=github-dark&hide_border=true" />
 </p>
 
 ---
