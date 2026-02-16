@@ -30,7 +30,6 @@ Machine Learning • Deep Learning • Generative AI • LLM Applications • ME
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40"/>
@@ -42,6 +41,22 @@ Machine Learning • Deep Learning • Generative AI • LLM Applications • ME
 
 <p align="center">
 Supervised & Unsupervised Learning • Deep Neural Networks • CNN • RNN • NLP & Transformers • LLM Fine-Tuning • Feature Engineering • Model Deployment • REST APIs • Secure Backend Systems
+</p>
+
+---
+
+<h2 align="center">Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=garvbahl37-gif&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">Total Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvbahl37-gif&theme=github-dark&hide_border=true&area=true" />
 </p>
 
 ---
