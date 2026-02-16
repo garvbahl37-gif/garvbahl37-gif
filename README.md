@@ -19,10 +19,21 @@ Machine Learning • Deep Learning • Generative AI • LLM Applications • ME
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Technical Skills</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,cpp,react,nodejs,express,mongodb,mysql,tailwind,tensorflow,pytorch,socketio,docker,git,linux" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40"/>
 </p>
 
 ---
@@ -30,32 +41,7 @@ Machine Learning • Deep Learning • Generative AI • LLM Applications • ME
 <h2 align="center">Core Competencies</h2>
 
 <p align="center">
-Supervised & Unsupervised Learning • Deep Neural Networks • NLP & Transformers • LLM Fine-Tuning • REST APIs • Secure Backend Systems
-</p>
-
----
-
-<h2 align="center">GitHub Analytics</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=garvbahl37-gif&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=garvbahl37-gif&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">Streak Stats</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=garvbahl37-gif&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvbahl37-gif&theme=github-dark&hide_border=true" />
+Supervised & Unsupervised Learning • Deep Neural Networks • CNN • RNN • NLP & Transformers • LLM Fine-Tuning • Feature Engineering • Model Deployment • REST APIs • Secure Backend Systems
 </p>
 
 ---
