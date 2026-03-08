@@ -62,15 +62,6 @@ Feature Engineering • Model Deployment • REST APIs • Scalable Backend Syst
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=garvbahl37-gif&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvbahl37-gif&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 <h2 align="center">Contribution Streak</h2>
 
 <p align="center">
